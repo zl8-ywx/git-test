@@ -9,5 +9,8 @@ public class test {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        System.out.println("master test");
+        System.out.println("master test");
+        System.out.println("master test");
     }
 }
